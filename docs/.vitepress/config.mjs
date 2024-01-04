@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "HyperC0der博客",
   description: "天天抄代码，一天不抄就手痒",
-  base:'/hyperC0der/',
+  base:'/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
